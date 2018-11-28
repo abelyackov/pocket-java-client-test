@@ -1,0 +1,42 @@
+2018-11-28  T  08:14:01.943+0300 ERROR Ошибка авторизации!
+2018-11-28 10:25:40 ERROR Ошибка авторизации!
+2018-11-28 11:05:24 ERROR Ошибка авторизации!
+2018-11-28 11:23:27 ERROR Ошибка авторизации!
+2018-11-28 11:27:41 ERROR Ошибка авторизации!
+2018-11-28 11:31:17 ERROR Ошибка авторизации!
+2018-11-28 11:34:47 ERROR Ошибка авторизации!
+2018-11-28 11:36:26 ERROR Ошибка авторизации!
+2018-11-28 11:38:04 ERROR Ошибка авторизации!
+2018-11-28 11:43:55 ERROR Ошибка авторизации!
+2018-11-28 11:44:57 ERROR Ошибка авторизации!
+2018-11-28 11:46:31 ERROR Ошибка авторизации!
+2018-11-28 11:47:50 ERROR Ошибка авторизации!
+2018-11-28 12:18:16 ERROR Ошибка авторизации!
+2018-11-28 14:25:52 ERROR Ошибка авторизации!
+2018-11-28 14:27:39 ERROR Ошибка авторизации!
+2018-11-28 14:28:26 ERROR Ошибка авторизации!
+2018-11-28 14:29:23 ERROR Ошибка авторизации!
+2018-11-28 14:31:13 ERROR Ошибка авторизации!
+2018-11-28 14:32:26 ERROR Ошибка авторизации!
+2018-11-28 14:33:11 ERROR Ошибка авторизации!
+2018-11-28 14:35:24 ERROR java.io.IOException: Server returned HTTP response code: 403 for URL: https://pocketmsg.ru:8888/v1/auth/
+2018-11-28 14:35:24 ERROR Ошибка авторизации!
+2018-11-28 14:36:39 ERROR java.io.IOException: Server returned HTTP response code: 403 for URL: https://pocketmsg.ru:8888/v1/auth/
+2018-11-28 14:36:39 ERROR Ошибка авторизации!
+2018-11-28 14:37:46 ERROR java.io.IOException: Server returned HTTP response code: 403 for URL: https://pocketmsg.ru:8888/v1/auth/
+2018-11-28 14:37:46 ERROR Ошибка авторизации!
+2018-11-28 14:42:31 ERROR java.io.IOException: Server returned HTTP response code: 403 for URL: https://pocketmsg.ru:8888/v1/auth/
+2018-11-28 14:42:31 ERROR Ошибка авторизации!
+2018-11-28 15:02:25 ERROR java.io.IOException: Server returned HTTP response code: 403 for URL: https://pocketmsg.ru:8888/v1/auth/
+2018-11-28 15:02:25 ERROR Ошибка авторизации!
+2018-11-28 15:05:13 ERROR java.io.IOException: Server returned HTTP response code: 403 for URL: https://pocketmsg.ru:8888/v1/auth/
+2018-11-28 15:05:13 ERROR Ошибка авторизации!
+2018-11-28 15:07:28 ERROR java.io.IOException: Server returned HTTP response code: 400 for URL: https://pocketmsg.ru:8888/v1/users/
+2018-11-28 15:18:11 ERROR java.io.IOException: Server returned HTTP response code: 400 for URL: https://pocketmsg.ru:8888/v1/users/
+2018-11-28 15:18:11 ERROR Ошибка регистрации, ответ от сервера: 400
+2018-11-28 15:27:38 ERROR java.io.IOException: Server returned HTTP response code: 403 for URL: https://pocketmsg.ru:8888/v1/auth/
+2018-11-28 15:27:38 ERROR Ошибка авторизации!
+2018-11-28 15:30:10 ERROR java.io.IOException: Server returned HTTP response code: 403 for URL: https://pocketmsg.ru:8888/v1/auth/
+2018-11-28 15:30:10 ERROR Ошибка авторизации!
+2018-11-28 15:35:18 ERROR java.io.IOException: Server returned HTTP response code: 403 for URL: https://pocketmsg.ru:8888/v1/auth/
+2018-11-28 15:35:18 ERROR Ошибка авторизации!

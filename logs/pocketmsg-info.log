@@ -1,0 +1,110 @@
+2018-11-28 12:18:10 INFO Окно приложения запущено
+2018-11-28 14:25:46 INFO Окно приложения запущено
+2018-11-28 14:27:34 INFO Окно приложения запущено
+2018-11-28 14:28:20 INFO Окно приложения запущено
+2018-11-28 14:29:17 INFO Окно приложения запущено
+2018-11-28 14:31:08 INFO Окно приложения запущено
+2018-11-28 14:32:21 INFO Окно приложения запущено
+2018-11-28 14:33:00 INFO Окно приложения запущено
+2018-11-28 14:35:20 INFO Окно приложения запущено
+2018-11-28 14:36:33 INFO Окно приложения запущено
+2018-11-28 14:37:39 INFO Окно приложения запущено
+2018-11-28 14:42:04 INFO Окно приложения запущено
+2018-11-28 14:42:25 INFO Окно приложения запущено
+2018-11-28 15:02:20 INFO Окно приложения запущено
+2018-11-28 15:03:10 INFO Окно приложения запущено
+2018-11-28 15:05:08 INFO Окно приложения запущено
+2018-11-28 15:06:38 INFO Окно приложения запущено
+2018-11-28 15:17:36 INFO Окно приложения запущено
+2018-11-28 15:27:32 INFO Окно приложения запущено
+2018-11-28 15:30:05 INFO Окно приложения запущено
+2018-11-28 15:30:19 INFO HHH000412: Hibernate Core {5.3.6.Final}
+2018-11-28 15:30:19 INFO HHH000206: hibernate.properties not found
+2018-11-28 15:30:19 INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2018-11-28 15:30:19 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:30:19 INFO HHH10001005: using driver [org.sqlite.JDBC] at URL [jdbc:sqlite:client.db]
+2018-11-28 15:30:19 INFO HHH10001001: Connection properties: {}
+2018-11-28 15:30:19 INFO HHH10001003: Autocommit mode: false
+2018-11-28 15:30:19 INFO HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-11-28 15:30:19 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:30:19 INFO HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [2] less than 4
+2018-11-28 15:30:20 INFO HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2f6299b6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-11-28 15:30:20 INFO HHH000397: Using ASTQueryTranslatorFactory
+2018-11-28 15:33:09 INFO Окно приложения запущено
+2018-11-28 15:33:18 INFO HHH000412: Hibernate Core {5.3.6.Final}
+2018-11-28 15:33:18 INFO HHH000206: hibernate.properties not found
+2018-11-28 15:33:18 INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2018-11-28 15:33:18 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:33:18 INFO HHH10001005: using driver [org.sqlite.JDBC] at URL [jdbc:sqlite:client.db]
+2018-11-28 15:33:18 INFO HHH10001001: Connection properties: {}
+2018-11-28 15:33:18 INFO HHH10001003: Autocommit mode: false
+2018-11-28 15:33:18 INFO HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-11-28 15:33:18 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:33:18 INFO HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [2] less than 4
+2018-11-28 15:33:19 INFO HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@16052be0] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-11-28 15:33:19 INFO HHH000397: Using ASTQueryTranslatorFactory
+2018-11-28 15:35:13 INFO Окно приложения запущено
+2018-11-28 15:35:30 INFO HHH000412: Hibernate Core {5.3.6.Final}
+2018-11-28 15:35:30 INFO HHH000206: hibernate.properties not found
+2018-11-28 15:35:30 INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2018-11-28 15:35:30 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:35:30 INFO HHH10001005: using driver [org.sqlite.JDBC] at URL [jdbc:sqlite:client.db]
+2018-11-28 15:35:30 INFO HHH10001001: Connection properties: {}
+2018-11-28 15:35:30 INFO HHH10001003: Autocommit mode: false
+2018-11-28 15:35:30 INFO HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-11-28 15:35:30 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:35:30 INFO HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [2] less than 4
+2018-11-28 15:35:31 INFO HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@10f67ac9] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-11-28 15:35:31 INFO HHH000397: Using ASTQueryTranslatorFactory
+2018-11-28 15:37:59 INFO Окно приложения запущено
+2018-11-28 15:38:07 INFO HHH000412: Hibernate Core {5.3.6.Final}
+2018-11-28 15:38:07 INFO HHH000206: hibernate.properties not found
+2018-11-28 15:38:08 INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2018-11-28 15:38:08 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:38:08 INFO HHH10001005: using driver [org.sqlite.JDBC] at URL [jdbc:sqlite:client.db]
+2018-11-28 15:38:08 INFO HHH10001001: Connection properties: {}
+2018-11-28 15:38:08 INFO HHH10001003: Autocommit mode: false
+2018-11-28 15:38:08 INFO HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-11-28 15:38:08 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:38:08 INFO HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [2] less than 4
+2018-11-28 15:38:08 INFO HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@193da70c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-11-28 15:38:09 INFO HHH000397: Using ASTQueryTranslatorFactory
+2018-11-28 15:40:34 INFO Окно приложения запущено
+2018-11-28 15:40:42 INFO HHH000412: Hibernate Core {5.3.6.Final}
+2018-11-28 15:40:42 INFO HHH000206: hibernate.properties not found
+2018-11-28 15:40:42 INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2018-11-28 15:40:43 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:40:43 INFO HHH10001005: using driver [org.sqlite.JDBC] at URL [jdbc:sqlite:client.db]
+2018-11-28 15:40:43 INFO HHH10001001: Connection properties: {}
+2018-11-28 15:40:43 INFO HHH10001003: Autocommit mode: false
+2018-11-28 15:40:43 INFO HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-11-28 15:40:43 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:40:43 INFO HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [2] less than 4
+2018-11-28 15:40:43 INFO HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@219dc979] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-11-28 15:40:43 INFO HHH000397: Using ASTQueryTranslatorFactory
+2018-11-28 15:49:01 INFO Окно приложения запущено
+2018-11-28 15:49:09 INFO HHH000412: Hibernate Core {5.3.6.Final}
+2018-11-28 15:49:09 INFO HHH000206: hibernate.properties not found
+2018-11-28 15:49:09 INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2018-11-28 15:49:09 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:49:10 INFO HHH10001005: using driver [org.sqlite.JDBC] at URL [jdbc:sqlite:client.db]
+2018-11-28 15:49:10 INFO HHH10001001: Connection properties: {}
+2018-11-28 15:49:10 INFO HHH10001003: Autocommit mode: false
+2018-11-28 15:49:10 INFO HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-11-28 15:49:10 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:49:10 INFO HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [2] less than 4
+2018-11-28 15:49:10 INFO HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@428d1ca7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-11-28 15:49:10 INFO HHH000397: Using ASTQueryTranslatorFactory
+2018-11-28 15:50:25 INFO Окно приложения запущено
+2018-11-28 15:50:32 INFO HHH000412: Hibernate Core {5.3.6.Final}
+2018-11-28 15:50:32 INFO HHH000206: hibernate.properties not found
+2018-11-28 15:50:32 INFO HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2018-11-28 15:50:33 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:50:33 INFO HHH10001005: using driver [org.sqlite.JDBC] at URL [jdbc:sqlite:client.db]
+2018-11-28 15:50:33 INFO HHH10001001: Connection properties: {}
+2018-11-28 15:50:33 INFO HHH10001003: Autocommit mode: false
+2018-11-28 15:50:33 INFO HHH000115: Hibernate connection pool size: 20 (min=1)
+2018-11-28 15:50:33 INFO HHH000400: Using dialect: org.hibernate.dialect.SQLiteDialect
+2018-11-28 15:50:33 INFO HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [2] less than 4
+2018-11-28 15:50:33 INFO HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4a9de6ec] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2018-11-28 15:50:33 INFO HHH000397: Using ASTQueryTranslatorFactory
